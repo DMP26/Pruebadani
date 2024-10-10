@@ -1,0 +1,4 @@
+SELECT COUNT(*) 
+FROM SPACEXTBL 
+WHERE Launch_Site = 'CCAFS SLC 40';
+
